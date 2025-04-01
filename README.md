@@ -2,6 +2,8 @@
 
 Whateverthehack is a simple point-and-click puzzle game created for a Game Design I course. I built the entire game in just 30 minutes, dedicating most of that time to perfecting its amazing art style.
 
+![Game Screenshot](screenshot.png "A screenshot of the game")
+
 ## Overview
 
 - **Game Type:** Puzzle / Point-and-Click
