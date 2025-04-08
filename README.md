@@ -15,7 +15,7 @@ Whateverthehack is a simple point-and-click puzzle game created for a Game Desig
 
 Download the HTML file and open it in any web browser to play the game.
 OR
-Simply visit this site [https://shyraptor.github.io/whateverthehack/]
+Simply visit this site https://shyraptor.github.io/whateverthehack/
 
 ## Credits
 
